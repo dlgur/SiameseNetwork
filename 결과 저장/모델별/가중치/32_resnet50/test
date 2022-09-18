@@ -1,0 +1,18 @@
+[Batch: 1] running test loss: 0.11923997104167938, running test accuracy: 0.40625
+[Batch: 20] running test loss: 0.11602189019322395, running test accuracy: 0.528124988079071
+[Batch: 40] running test loss: 0.1154445979744196, running test accuracy: 0.5406250357627869
+[Batch: 60] running test loss: 0.11548781457046668, running test accuracy: 0.5447916984558105
+[Batch: 80] running test loss: 0.115705222543329, running test accuracy: 0.550000011920929
+[Batch: 100] running test loss: 0.1155523806810379, running test accuracy: 0.5509374737739563
+[Batch: 120] running test loss: 0.11549527887254954, running test accuracy: 0.5544270873069763
+[Batch: 140] running test loss: 0.11550551796598094, running test accuracy: 0.5511160492897034
+[Batch: 160] running test loss: 0.11564541831612588, running test accuracy: 0.550000011920929
+[Batch: 180] running test loss: 0.11552343153291278, running test accuracy: 0.5480902791023254
+[Batch: 200] running test loss: 0.11579963032156229, running test accuracy: 0.5443750023841858
+[Batch: 220] running test loss: 0.11562614779580724, running test accuracy: 0.5453124642372131
+[Batch: 240] running test loss: 0.11558371524636944, running test accuracy: 0.5462239980697632
+[Batch: 260] running test loss: 0.11564180464125597, running test accuracy: 0.5449519157409668
+[Batch: 280] running test loss: 0.1156210987961718, running test accuracy: 0.543749988079071
+[Batch: 300] running test loss: 0.11581403243045012, running test accuracy: 0.5432291626930237
+test  loss: 0.11596357312202453, accuracy: 0.5442999601364136
+elapsed time: 125.67549061775208
