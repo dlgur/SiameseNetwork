@@ -1,0 +1,27 @@
+[Batch: 1] running test loss: 0.035505672756698914, running test accuracy: 0.59375
+[Batch: 20] running test loss: 0.038018562762590594, running test accuracy: 0.5390625
+[Batch: 40] running test loss: 0.03798264117722283, running test accuracy: 0.520312488079071
+[Batch: 60] running test loss: 0.03794425915233054, running test accuracy: 0.53125
+[Batch: 80] running test loss: 0.03764774088267586, running test accuracy: 0.5386719107627869
+[Batch: 100] running test loss: 0.03772515500633745, running test accuracy: 0.5443750023841858
+[Batch: 120] running test loss: 0.03775728801883815, running test accuracy: 0.5427083373069763
+[Batch: 140] running test loss: 0.03781978295623308, running test accuracy: 0.5435267686843872
+[Batch: 160] running test loss: 0.03791452158611719, running test accuracy: 0.5400390625
+[Batch: 180] running test loss: 0.03789822335715548, running test accuracy: 0.538194477558136
+[Batch: 200] running test loss: 0.037878881772703606, running test accuracy: 0.539843738079071
+[Batch: 220] running test loss: 0.03788928654195677, running test accuracy: 0.5363636016845703
+[Batch: 240] running test loss: 0.03786086056552449, running test accuracy: 0.5356771349906921
+[Batch: 260] running test loss: 0.03786791587856267, running test accuracy: 0.5371394157409668
+[Batch: 280] running test loss: 0.03784798259652494, running test accuracy: 0.5380580425262451
+[Batch: 300] running test loss: 0.03782901114813285, running test accuracy: 0.5383333563804626
+test  loss: 0.037892049822630364, accuracy: 0.5381999611854553
+elapsed time: 116.8978488445282
+(0.037892049822630364, tensor(0.5382, device='cuda:0'))
+
+
+history
+0.0407172889646631 0.03809191221464425
+0.03986327301645814 0.03822817482780665
+0.03947735485655118 0.03809903247959446
+0.03876629437054008 0.03807324997044634
+0.03864075255582182 0.03806258275466971

@@ -1,0 +1,268 @@
+[Epoch: 1 - Training]
+[Batch: 20] running train loss: 0.08076058588922023, running train accuracy: 0.5093750357627869
+[Batch: 40] running train loss: 0.07970184441655874, running train accuracy: 0.5218750238418579
+[Batch: 60] running train loss: 0.07873821519315242, running train accuracy: 0.5161458849906921
+[Batch: 80] running train loss: 0.07834269991144538, running train accuracy: 0.5191406607627869
+[Batch: 100] running train loss: 0.07840632528066635, running train accuracy: 0.5140624642372131
+[Batch: 120] running train loss: 0.0782967842494448, running train accuracy: 0.5083333849906921
+[Batch: 140] running train loss: 0.07854092041296619, running train accuracy: 0.5066964030265808
+[Batch: 160] running train loss: 0.07850403846241534, running train accuracy: 0.5087890625
+[Batch: 180] running train loss: 0.07846674906710784, running train accuracy: 0.5083333253860474
+[Batch: 200] running train loss: 0.07817597147077322, running train accuracy: 0.5104687213897705
+[Batch: 220] running train loss: 0.07803630930456248, running train accuracy: 0.5116477012634277
+[Batch: 240] running train loss: 0.07799870315939188, running train accuracy: 0.5102865099906921
+[Batch: 260] running train loss: 0.07799729174719407, running train accuracy: 0.5100961327552795
+[Batch: 280] running train loss: 0.07796418380790524, running train accuracy: 0.5121651887893677
+[Batch: 300] running train loss: 0.07774898781130711, running train accuracy: 0.5139583349227905
+[Batch: 320] running train loss: 0.07776945369550958, running train accuracy: 0.5155273675918579
+[Batch: 340] running train loss: 0.0776750930420616, running train accuracy: 0.5165441036224365
+[Batch: 360] running train loss: 0.07758480299057233, running train accuracy: 0.5163194537162781
+[Batch: 380] running train loss: 0.07758470898200022, running train accuracy: 0.5167763233184814
+[Batch: 400] running train loss: 0.0774984514620155, running train accuracy: 0.5191406011581421
+[Batch: 420] running train loss: 0.07750210539393482, running train accuracy: 0.5200148820877075
+[Batch: 440] running train loss: 0.07750206199389967, running train accuracy: 0.5209516882896423
+[Batch: 460] running train loss: 0.07742067009372555, running train accuracy: 0.5216032266616821
+[Batch: 480] running train loss: 0.07747420424129814, running train accuracy: 0.5223307609558105
+[Batch: 500] running train loss: 0.07740334401279687, running train accuracy: 0.5235000252723694
+[Batch: 520] running train loss: 0.0773529610883158, running train accuracy: 0.525120198726654
+[Batch: 540] running train loss: 0.07730551984988981, running train accuracy: 0.5261573791503906
+[Batch: 560] running train loss: 0.07718684195008661, running train accuracy: 0.5273995399475098
+[Batch: 580] running train loss: 0.07710288215171675, running train accuracy: 0.5279094576835632
+[Batch: 600] running train loss: 0.07714670842513442, running train accuracy: 0.5284374952316284
+[Batch: 620] running train loss: 0.07708042114973068, running train accuracy: 0.5288810133934021
+train loss: 0.07715558279184927, accuracy: 0.5282793045043945
+elapsed time: 390.85201716423035
+[Epoch: 1 - Validation]
+[Batch: 1] running val loss: 0.03359447419643402, running val accuracy: 0.65625
+[Batch: 20] running val loss: 0.034176585357636215, running val accuracy: 0.5375000238418579
+[Batch: 40] running val loss: 0.03436705875210464, running val accuracy: 0.5234375
+[Batch: 60] running val loss: 0.03427422232925892, running val accuracy: 0.5229166746139526
+[Batch: 80] running val loss: 0.03438603563699871, running val accuracy: 0.5234375
+[Batch: 100] running val loss: 0.03453864689916372, running val accuracy: 0.5262500047683716
+[Batch: 120] running val loss: 0.03459292698341111, running val accuracy: 0.5257812738418579
+[Batch: 140] running val loss: 0.0347285436067198, running val accuracy: 0.5189732313156128
+[Batch: 160] running val loss: 0.03478716177633032, running val accuracy: 0.5169922113418579
+[Batch: 180] running val loss: 0.034909469354897735, running val accuracy: 0.5142361521720886
+[Batch: 200] running val loss: 0.03501499601639807, running val accuracy: 0.5137500166893005
+[Batch: 220] running val loss: 0.03496686226095665, running val accuracy: 0.5146306753158569
+[Batch: 240] running val loss: 0.03500743125720571, running val accuracy: 0.5157552361488342
+[Batch: 260] running val loss: 0.034998540802357286, running val accuracy: 0.5165865421295166
+[Batch: 280] running val loss: 0.034925148602841155, running val accuracy: 0.5185267925262451
+[Batch: 300] running val loss: 0.03495579427108168, running val accuracy: 0.5178124904632568
+val loss: 0.0349789632499218, accuracy: 0.5180000066757202
+elapsed time: 100.35071659088135
+[Info] best validation accuracy!
+[Epoch: 2 - Training]
+[Batch: 20] running train loss: 0.07725302986800671, running train accuracy: 0.5375000238418579
+[Batch: 40] running train loss: 0.07700817175209522, running train accuracy: 0.5453125238418579
+[Batch: 60] running train loss: 0.07672840356826782, running train accuracy: 0.5447916984558105
+[Batch: 80] running train loss: 0.07656059563159942, running train accuracy: 0.551953136920929
+[Batch: 100] running train loss: 0.07624955870211124, running train accuracy: 0.5540624856948853
+[Batch: 120] running train loss: 0.0758635618413488, running train accuracy: 0.5523437857627869
+[Batch: 140] running train loss: 0.07592439630201885, running train accuracy: 0.5502232313156128
+[Batch: 160] running train loss: 0.07593803512863814, running train accuracy: 0.5494140982627869
+[Batch: 180] running train loss: 0.0757810201909807, running train accuracy: 0.5510416626930237
+[Batch: 200] running train loss: 0.07572076361626387, running train accuracy: 0.5496875047683716
+[Batch: 220] running train loss: 0.07586358260702003, running train accuracy: 0.5508522391319275
+[Batch: 240] running train loss: 0.07602265023936829, running train accuracy: 0.5520833730697632
+[Batch: 260] running train loss: 0.07600023465660902, running train accuracy: 0.5546875
+[Batch: 280] running train loss: 0.07596681769937277, running train accuracy: 0.5545759201049805
+[Batch: 300] running train loss: 0.07598664325972398, running train accuracy: 0.5560416579246521
+[Batch: 320] running train loss: 0.07586236677598208, running train accuracy: 0.55810546875
+[Batch: 340] running train loss: 0.07583302603486707, running train accuracy: 0.5590992569923401
+[Batch: 360] running train loss: 0.07586044226255682, running train accuracy: 0.5592014193534851
+[Batch: 380] running train loss: 0.07591185765831095, running train accuracy: 0.5581414699554443
+[Batch: 400] running train loss: 0.07586282262578607, running train accuracy: 0.5585156083106995
+[Batch: 420] running train loss: 0.07579126403267894, running train accuracy: 0.558779776096344
+[Batch: 440] running train loss: 0.0758571897294711, running train accuracy: 0.5594459772109985
+[Batch: 460] running train loss: 0.0758127803630803, running train accuracy: 0.560529887676239
+[Batch: 480] running train loss: 0.07573467139930774, running train accuracy: 0.5622395873069763
+[Batch: 500] running train loss: 0.07573345706611871, running train accuracy: 0.5616875290870667
+[Batch: 520] running train loss: 0.07571095291954967, running train accuracy: 0.5621995329856873
+[Batch: 540] running train loss: 0.07570416817648543, running train accuracy: 0.5629629492759705
+[Batch: 560] running train loss: 0.07568181505027627, running train accuracy: 0.563281238079071
+[Batch: 580] running train loss: 0.07571838771089398, running train accuracy: 0.5633620619773865
+[Batch: 600] running train loss: 0.0756876854908963, running train accuracy: 0.5640625357627869
+[Batch: 620] running train loss: 0.07568460153115372, running train accuracy: 0.564717710018158
+train loss: 0.0757217015470947, accuracy: 0.5644887685775757
+elapsed time: 366.2942020893097
+[Epoch: 2 - Validation]
+[Batch: 1] running val loss: 0.03234428912401199, running val accuracy: 0.71875
+[Batch: 20] running val loss: 0.03416827404871583, running val accuracy: 0.559374988079071
+[Batch: 40] running val loss: 0.0344154947437346, running val accuracy: 0.546875
+[Batch: 60] running val loss: 0.0342968956567347, running val accuracy: 0.5333333611488342
+[Batch: 80] running val loss: 0.034314048918895425, running val accuracy: 0.5386719107627869
+[Batch: 100] running val loss: 0.034497715253382924, running val accuracy: 0.5337499976158142
+[Batch: 120] running val loss: 0.03447797393115858, running val accuracy: 0.5372396111488342
+[Batch: 140] running val loss: 0.0346108299413962, running val accuracy: 0.5334821343421936
+[Batch: 160] running val loss: 0.03469732149969786, running val accuracy: 0.534375011920929
+[Batch: 180] running val loss: 0.0348152679287725, running val accuracy: 0.5322916507720947
+[Batch: 200] running val loss: 0.03489864381030202, running val accuracy: 0.5295312404632568
+[Batch: 220] running val loss: 0.034862110238860954, running val accuracy: 0.5302556753158569
+[Batch: 240] running val loss: 0.03490109338890761, running val accuracy: 0.5319010615348816
+[Batch: 260] running val loss: 0.03488415264023038, running val accuracy: 0.5332932472229004
+[Batch: 280] running val loss: 0.03482723606617323, running val accuracy: 0.5341517925262451
+[Batch: 300] running val loss: 0.03487544991696874, running val accuracy: 0.5334374904632568
+val loss: 0.03489871901869774, accuracy: 0.5331999659538269
+elapsed time: 82.9387834072113
+[Info] best validation accuracy!
+[Epoch: 3 - Training]
+[Batch: 20] running train loss: 0.07479093819856644, running train accuracy: 0.578125
+[Batch: 40] running train loss: 0.07478718776255847, running train accuracy: 0.5718750357627869
+[Batch: 60] running train loss: 0.07529337840775649, running train accuracy: 0.5718750357627869
+[Batch: 80] running train loss: 0.0752746058627963, running train accuracy: 0.5703125
+[Batch: 100] running train loss: 0.07475336469709873, running train accuracy: 0.578125
+[Batch: 120] running train loss: 0.0746352513631185, running train accuracy: 0.581250011920929
+[Batch: 140] running train loss: 0.0745835926915918, running train accuracy: 0.5790178775787354
+[Batch: 160] running train loss: 0.0743699808139354, running train accuracy: 0.5826172232627869
+[Batch: 180] running train loss: 0.07426885084973442, running train accuracy: 0.5829861164093018
+[Batch: 200] running train loss: 0.074242481328547, running train accuracy: 0.5814062356948853
+[Batch: 220] running train loss: 0.07418345605785197, running train accuracy: 0.5822442770004272
+[Batch: 240] running train loss: 0.07415139417474469, running train accuracy: 0.5838541984558105
+[Batch: 260] running train loss: 0.07406638273252891, running train accuracy: 0.5847355723381042
+[Batch: 280] running train loss: 0.07414160463958978, running train accuracy: 0.5858259201049805
+[Batch: 300] running train loss: 0.07418393676479658, running train accuracy: 0.5852083563804626
+[Batch: 320] running train loss: 0.07410654777195305, running train accuracy: 0.5873047113418579
+[Batch: 340] running train loss: 0.07401786220862586, running train accuracy: 0.5893382430076599
+[Batch: 360] running train loss: 0.07400125761826833, running train accuracy: 0.5900173783302307
+[Batch: 380] running train loss: 0.07412926056667378, running train accuracy: 0.5881578922271729
+[Batch: 400] running train loss: 0.07424860117956995, running train accuracy: 0.5880468487739563
+[Batch: 420] running train loss: 0.07424968209649835, running train accuracy: 0.5886905193328857
+[Batch: 440] running train loss: 0.07422854874960401, running train accuracy: 0.5897727012634277
+[Batch: 460] running train loss: 0.07415209540530392, running train accuracy: 0.5914402008056641
+[Batch: 480] running train loss: 0.07405284401805451, running train accuracy: 0.5917317867279053
+[Batch: 500] running train loss: 0.07399287355691195, running train accuracy: 0.5923125147819519
+[Batch: 520] running train loss: 0.07396904609094446, running train accuracy: 0.5925480723381042
+[Batch: 540] running train loss: 0.07396792665261913, running train accuracy: 0.592997670173645
+[Batch: 560] running train loss: 0.07390374647054289, running train accuracy: 0.592968761920929
+[Batch: 580] running train loss: 0.0739225734988677, running train accuracy: 0.5935883522033691
+[Batch: 600] running train loss: 0.07387784032151103, running train accuracy: 0.5931249856948853
+[Batch: 620] running train loss: 0.07392656748453455, running train accuracy: 0.5930443406105042
+train loss: 0.07395267308798811, accuracy: 0.5939152240753174
+elapsed time: 366.8899314403534
+[Epoch: 3 - Validation]
+[Batch: 1] running val loss: 0.033492159098386765, running val accuracy: 0.59375
+[Batch: 20] running val loss: 0.033801169414073226, running val accuracy: 0.578125
+[Batch: 40] running val loss: 0.03390360432676971, running val accuracy: 0.5679687857627869
+[Batch: 60] running val loss: 0.033838302455842496, running val accuracy: 0.5546875
+[Batch: 80] running val loss: 0.03399787712842226, running val accuracy: 0.546875
+[Batch: 100] running val loss: 0.03417336001992226, running val accuracy: 0.542187511920929
+[Batch: 120] running val loss: 0.03417835400129358, running val accuracy: 0.5455729365348816
+[Batch: 140] running val loss: 0.03429546646241631, running val accuracy: 0.5457589030265808
+[Batch: 160] running val loss: 0.034346387116238476, running val accuracy: 0.5462890863418579
+[Batch: 180] running val loss: 0.034505767582191364, running val accuracy: 0.5411458611488342
+[Batch: 200] running val loss: 0.034550379384309056, running val accuracy: 0.5423437356948853
+[Batch: 220] running val loss: 0.03450533707880161, running val accuracy: 0.5431817770004272
+[Batch: 240] running val loss: 0.034529668651521205, running val accuracy: 0.5442708730697632
+[Batch: 260] running val loss: 0.03451291008924062, running val accuracy: 0.5448317527770996
+[Batch: 280] running val loss: 0.03446801220332937, running val accuracy: 0.5454241037368774
+[Batch: 300] running val loss: 0.03450097414354483, running val accuracy: 0.54645836353302
+val loss: 0.03452820035815239, accuracy: 0.5468999743461609
+elapsed time: 82.7060797214508
+[Info] best validation accuracy!
+[Epoch: 4 - Training]
+[Batch: 20] running train loss: 0.07371393777430058, running train accuracy: 0.6109375357627869
+[Batch: 40] running train loss: 0.07361807338893414, running train accuracy: 0.61328125
+[Batch: 60] running train loss: 0.07369331829249859, running train accuracy: 0.6130208373069763
+[Batch: 80] running train loss: 0.07367262272164225, running train accuracy: 0.6070312857627869
+[Batch: 100] running train loss: 0.07343028198927641, running train accuracy: 0.6078124642372131
+[Batch: 120] running train loss: 0.07345268648738662, running train accuracy: 0.6122395992279053
+[Batch: 140] running train loss: 0.07335337828844786, running train accuracy: 0.6133928894996643
+[Batch: 160] running train loss: 0.07332386060152203, running train accuracy: 0.616015613079071
+[Batch: 180] running train loss: 0.07323647542960114, running train accuracy: 0.6147569417953491
+[Batch: 200] running train loss: 0.07321161534637213, running train accuracy: 0.6165624856948853
+[Batch: 220] running train loss: 0.07302165646106004, running train accuracy: 0.6176136136054993
+[Batch: 240] running train loss: 0.0729236281166474, running train accuracy: 0.6169270873069763
+[Batch: 260] running train loss: 0.07300547885780151, running train accuracy: 0.6169471144676208
+[Batch: 280] running train loss: 0.0730993777513504, running train accuracy: 0.6158482432365417
+[Batch: 300] running train loss: 0.07302779455979665, running train accuracy: 0.6166666746139526
+[Batch: 320] running train loss: 0.07302618473768234, running train accuracy: 0.6156250238418579
+[Batch: 340] running train loss: 0.07299886440091273, running train accuracy: 0.6148897409439087
+[Batch: 360] running train loss: 0.07300064350581831, running train accuracy: 0.6165798902511597
+[Batch: 380] running train loss: 0.07297635358807288, running train accuracy: 0.6177631616592407
+[Batch: 400] running train loss: 0.0729607904329896, running train accuracy: 0.6169531345367432
+[Batch: 420] running train loss: 0.07285733141359829, running train accuracy: 0.6182292103767395
+[Batch: 440] running train loss: 0.07280270922082392, running train accuracy: 0.617755651473999
+[Batch: 460] running train loss: 0.07267161204439143, running train accuracy: 0.6171875
+[Batch: 480] running train loss: 0.07265773472997049, running train accuracy: 0.6182292103767395
+[Batch: 500] running train loss: 0.072679024964571, running train accuracy: 0.6186875104904175
+[Batch: 520] running train loss: 0.07262938634420817, running train accuracy: 0.6193509697914124
+[Batch: 540] running train loss: 0.07256376710892827, running train accuracy: 0.6201388835906982
+[Batch: 560] running train loss: 0.0725277093837836, running train accuracy: 0.6203683018684387
+[Batch: 580] running train loss: 0.07243161433344257, running train accuracy: 0.6207435131072998
+[Batch: 600] running train loss: 0.07239916332686941, running train accuracy: 0.6205729246139526
+[Batch: 620] running train loss: 0.07242145007776637, running train accuracy: 0.6203628778457642
+train loss: 0.07246514370911139, accuracy: 0.620299220085144
+elapsed time: 367.35610008239746
+[Epoch: 4 - Validation]
+[Batch: 1] running val loss: 0.034082185477018356, running val accuracy: 0.5625
+[Batch: 20] running val loss: 0.034077003691345455, running val accuracy: 0.5609375238418579
+[Batch: 40] running val loss: 0.034118928108364345, running val accuracy: 0.561718761920929
+[Batch: 60] running val loss: 0.034139925707131626, running val accuracy: 0.5619791746139526
+[Batch: 80] running val loss: 0.034264402207918467, running val accuracy: 0.555859386920929
+[Batch: 100] running val loss: 0.03430791614577174, running val accuracy: 0.5571874976158142
+[Batch: 120] running val loss: 0.034322753393401705, running val accuracy: 0.5598958730697632
+[Batch: 140] running val loss: 0.03439427984080144, running val accuracy: 0.5611607432365417
+[Batch: 160] running val loss: 0.034452403197064996, running val accuracy: 0.5621094107627869
+[Batch: 180] running val loss: 0.03458474938654237, running val accuracy: 0.5604166984558105
+[Batch: 200] running val loss: 0.034688109569251536, running val accuracy: 0.5565624833106995
+[Batch: 220] running val loss: 0.03465882752260024, running val accuracy: 0.5562499761581421
+[Batch: 240] running val loss: 0.03469490240483234, running val accuracy: 0.5584635734558105
+[Batch: 260] running val loss: 0.03467454852966162, running val accuracy: 0.5588942170143127
+[Batch: 280] running val loss: 0.03461391043051013, running val accuracy: 0.559933066368103
+[Batch: 300] running val loss: 0.03467809965834021, running val accuracy: 0.5589583516120911
+val loss: 0.03468316488265991, accuracy: 0.5583999752998352
+elapsed time: 83.76419162750244
+[Epoch: 5 - Training]
+[Batch: 20] running train loss: 0.07128477189689875, running train accuracy: 0.637499988079071
+[Batch: 40] running train loss: 0.07192271528765559, running train accuracy: 0.6328125
+[Batch: 60] running train loss: 0.07158807485053936, running train accuracy: 0.6328125596046448
+[Batch: 80] running train loss: 0.07183180614374578, running train accuracy: 0.6390625238418579
+[Batch: 100] running train loss: 0.0720392370596528, running train accuracy: 0.6353124976158142
+[Batch: 120] running train loss: 0.07251834493751327, running train accuracy: 0.6304687857627869
+[Batch: 140] running train loss: 0.07254268641450576, running train accuracy: 0.6357142925262451
+[Batch: 160] running train loss: 0.07249583450611681, running train accuracy: 0.63671875
+[Batch: 180] running train loss: 0.07202873652180036, running train accuracy: 0.635937511920929
+[Batch: 200] running train loss: 0.07213095281273127, running train accuracy: 0.6362499594688416
+[Batch: 220] running train loss: 0.07207724678922783, running train accuracy: 0.6366477012634277
+[Batch: 240] running train loss: 0.07199343577958643, running train accuracy: 0.6377604603767395
+[Batch: 260] running train loss: 0.07184287657817968, running train accuracy: 0.6391826868057251
+[Batch: 280] running train loss: 0.07173388274386525, running train accuracy: 0.6407366394996643
+[Batch: 300] running train loss: 0.07168904347966115, running train accuracy: 0.6408333778381348
+[Batch: 320] running train loss: 0.07165854083141313, running train accuracy: 0.6405273675918579
+[Batch: 340] running train loss: 0.07161803115159274, running train accuracy: 0.640900731086731
+[Batch: 360] running train loss: 0.07144543743795818, running train accuracy: 0.6414930820465088
+[Batch: 380] running train loss: 0.07151126351795699, running train accuracy: 0.6401315927505493
+[Batch: 400] running train loss: 0.0715240740776062, running train accuracy: 0.6412500143051147
+[Batch: 420] running train loss: 0.07154045543145565, running train accuracy: 0.6406994462013245
+[Batch: 440] running train loss: 0.07149892079389908, running train accuracy: 0.6411221623420715
+[Batch: 460] running train loss: 0.07138380367794762, running train accuracy: 0.6410325765609741
+[Batch: 480] running train loss: 0.07131196463791033, running train accuracy: 0.6406250596046448
+[Batch: 500] running train loss: 0.0713131697922945, running train accuracy: 0.6388750076293945
+[Batch: 520] running train loss: 0.07125729392640866, running train accuracy: 0.6395432949066162
+[Batch: 540] running train loss: 0.07118009201906346, running train accuracy: 0.6392939686775208
+[Batch: 560] running train loss: 0.07110422964740012, running train accuracy: 0.6397321224212646
+[Batch: 580] running train loss: 0.07108423884572654, running train accuracy: 0.6397629380226135
+[Batch: 600] running train loss: 0.07110918287187815, running train accuracy: 0.6399999856948853
+[Batch: 620] running train loss: 0.07109493141573282, running train accuracy: 0.6404737830162048
+train loss: 0.0711347521629714, accuracy: 0.640548586845398
+elapsed time: 367.6152572631836
+[Epoch: 5 - Validation]
+[Batch: 1] running val loss: 0.0339784175157547, running val accuracy: 0.53125
+[Batch: 20] running val loss: 0.034683581069111825, running val accuracy: 0.5546875
+[Batch: 40] running val loss: 0.03447417700663209, running val accuracy: 0.551562488079071
+[Batch: 60] running val loss: 0.03449127860367298, running val accuracy: 0.542187511920929
+[Batch: 80] running val loss: 0.03440372687764466, running val accuracy: 0.5523437857627869
+[Batch: 100] running val loss: 0.03464384716004133, running val accuracy: 0.5471875071525574
+[Batch: 120] running val loss: 0.03454261786925296, running val accuracy: 0.5520833730697632
+[Batch: 140] running val loss: 0.034696311503648755, running val accuracy: 0.550000011920929
+[Batch: 160] running val loss: 0.03476591391954571, running val accuracy: 0.5523437857627869
+[Batch: 180] running val loss: 0.034937142187522516, running val accuracy: 0.5493055582046509
+[Batch: 200] running val loss: 0.03504899879917502, running val accuracy: 0.5495312213897705
+[Batch: 220] running val loss: 0.034985523103651675, running val accuracy: 0.5494318008422852
+[Batch: 240] running val loss: 0.034998938379188375, running val accuracy: 0.5493490099906921
+[Batch: 260] running val loss: 0.034991168030179466, running val accuracy: 0.5493990182876587
+[Batch: 280] running val loss: 0.03491901573059814, running val accuracy: 0.5496651530265808
+[Batch: 300] running val loss: 0.034972275737673045, running val accuracy: 0.5484375357627869
+val loss: 0.03502436431646347, accuracy: 0.5478999614715576
+elapsed time: 83.5561113357544
